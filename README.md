@@ -1,4 +1,4 @@
-# NLP-Classifications
+# Sentiment Analysis with NLTK
 
 This project constains various algorithms for sentiment analysis.
 It is usage the nltk library and in someones sklearn library.
