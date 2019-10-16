@@ -1,10 +1,10 @@
 # Sentiment Analysis with NLTK
 
-This project constains various algorithms for sentiment analysis.
-It is usage the nltk library and in someones sklearn library.
-This codes was writed in python 3.6.
+This project contains various algorithms for sentiment analysis.
+It uses the NLTK library along with the sklearn library.
+These codes were written in python 3.6.
 
-<b>Requeriments: </b>
+<b>Requirements: </b>
 <ul>
 	<li>Python 3.x </li> 
 	<li>NLTK library </li>
